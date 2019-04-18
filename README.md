@@ -8,8 +8,8 @@ Demo realizada no evento [Visual Studio 2019 Launch](https://www.meetup.com/Deve
 
 # Integrantes
 
-@renanlq
-@sidneyocirqueira
+[@renanlq](https://github.com/renanlq)
+[@sidneyocirqueira](https://github.com/sidneyocirqueira)
 
 # Instruções para execução do projeto
 
